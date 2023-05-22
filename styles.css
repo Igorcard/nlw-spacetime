@@ -71,7 +71,10 @@ nav {
 }
 
 .memory img {
+<<<<<<< HEAD
   max-width:600px;
+=======
+>>>>>>> 7aaacec6021c7c173bf7d9d212c24cf476cadb10
   border-radius: 10px;
   background-size: cover;
 
@@ -83,9 +86,12 @@ nav {
 }
 
 .memory div {
+<<<<<<< HEAD
   max-width:600px;
   overflow: hidden;
   border-radius: 10px;
+=======
+>>>>>>> 7aaacec6021c7c173bf7d9d212c24cf476cadb10
 }
 
 .memory p {
