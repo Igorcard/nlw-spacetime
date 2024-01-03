@@ -50,6 +50,10 @@ nav {
   overflow-y: scroll;
   animation: entering 0.7s ease-in-out;
 }
+.links {
+  color: white;
+  margin: 0px;
+}
 
 .memory {
   display: flex;
@@ -93,6 +97,8 @@ nav {
   color: #bebebf;
   line-height: 28px;
 }
+
+
 
 aside {
   grid-area: profile;
